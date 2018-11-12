@@ -1,0 +1,5 @@
+# IGNORE specific file
+random_file.txt
+
+# IGNORE all ruby files
+*.rb
